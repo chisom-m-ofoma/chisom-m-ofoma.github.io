@@ -3,7 +3,7 @@
 :root {
     /* This template uses a professional "Modern Tech" color scheme. */
     --primary-color: #004526;   /* Lacoste Green */
-    --secondary-color: #EDE8D0; /* Beige */
+    --secondary-color: #006241; /* Starbucks Green */
     --accent-color: #FFCE1B;    /* Mustard Yellow */
 
     /* --- Shared Variables (These usually don't need to change) --- */
@@ -98,7 +98,7 @@ header p {
 
 /* --- 4. Navigation --- */
 nav {
-    background-color: rgba(73, 84, 33, 0.95); /* Adjusted for new primary color */
+    background-color: rgba(0, 69, 38, 0.95); /* Adjusted for new primary color */
     backdrop-filter: blur(5px);
     position: sticky;
     top: 0;
