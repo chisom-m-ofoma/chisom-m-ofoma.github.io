@@ -2,7 +2,7 @@
 /* --- 1. Variables (Modern Tech Palette) --- */
 :root {
     /* This template uses a professional "Modern Tech" color scheme. */
-    --primary-color: #4B5320;   /* Army Green */
+    --primary-color: #004526;   /* Lacoste Green */
     --secondary-color: #EDE8D0; /* Beige */
     --accent-color: #FFCE1B;    /* Mustard Yellow */
 
@@ -103,7 +103,7 @@ nav {
     position: sticky;
     top: 0;
     z-index: 1000;
-    border-bottom: 1px solid var(--secondary-color);
+    border-bottom: 1px solid var(--primary-color);
 }
 
 nav ul {
